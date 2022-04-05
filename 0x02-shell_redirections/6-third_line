@@ -1,2 +1,2 @@
 #!/bin/bash
-cat -3 iacta
+echo 'cat -3 iacta' >> 6-third_line
