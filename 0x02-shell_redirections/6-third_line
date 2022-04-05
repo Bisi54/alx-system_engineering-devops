@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'cat -3 iacta' >> 6-third_line
+awk '{print $3}' iacta >> 6-third_line
